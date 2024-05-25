@@ -30,20 +30,4 @@
 
 ## 📈 GitHub 统计
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
-
-## 🔥 近期项目
-
-### [项目名称](项目链接)
-[简短的项目描述，例如：这个项目是一个用 .NET Core 和 WPF 构建的桌面应用。]
-
-### [项目名称](项目链接)
-[简短的项目描述，例如：这是一个使用 C++ 和 Qt 的跨平台应用。]
-
-## 🌐 社交链接
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](你的LinkedIn链接) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](你的Twitter链接) 
-[![个人网站](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](你的个人网站链接) 
-
-感谢你的来访！希望我们能有机会合作。😊
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=weichangk&show_icons=true&hide_title=true)
