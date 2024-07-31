@@ -14,15 +14,6 @@ Hi there! I'm a passionate **Desktop Development Engineer** with a strong backgr
 ![Clang](https://img.shields.io/badge/-Clang-004F9F?logo=clang&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## Projects
-Here are some of the projects I've been working on:
-
-### Project 1: [Project Name](link-to-repo)
-A brief description of the project, the technologies used, and its main features.
-
-### Project 2: [Project Name](link-to-repo)
-A brief description of the project, the technologies used, and its main features.
-
 ## GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weichangk&show_icons=true&theme=radical" />
