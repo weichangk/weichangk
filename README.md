@@ -22,3 +22,21 @@ Hi there! I'm a passionate **Desktop Development Engineer** with a strong backgr
 Feel free to check out my repositories and get in touch if you want to collaborate or just have a chat about desktop development!
 
 Thanks for stopping by! 😊
+
+## 🎯 2025 Goals
+
+### 💰 财务目标
+- 每月固定存 **n** 元
+- 每月固定买入基金 **m** 元
+
+### 📖 学习目标
+- 每天上班摸鱼（学习）**1.5** 小时
+
+### 🏋️ 健康目标
+- 每天锻炼 **30** 分钟
+- **增重 15 斤**
+
+### 💰 变现目标
+- 录制一套课程并发布
+- 开发一款软件并上线
+
